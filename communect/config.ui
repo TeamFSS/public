@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Config</class>
+ <widget class="QDialog" name="Config">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>762</width>
+    <height>511</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QFrame" name="addconfig_frame">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>130</y>
+     <width>461</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QLabel" name="configsettings_create_name_label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>115</y>
+      <width>57</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Name:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_value_name_label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>165</y>
+      <width>57</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Value:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_comment_name_label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>215</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Comment:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_name_line">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>110</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_value_line">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>160</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_comment_line">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>210</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_createcancel_button">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>290</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cancel</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_createsave_button">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>290</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QFrame" name="modifyconfig_frame_2">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>20</y>
+     <width>461</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QCheckBox" name="configsettings_create_checkBox">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>15</y>
+      <width>85</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_create_name_label_2">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>50</y>
+      <width>57</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Name:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_value_name_label_2">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>80</y>
+      <width>57</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Value:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_comment_name_label_2">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>110</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Comment:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_name_line_2">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>45</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_value_line_2">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>75</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_comment_line_2">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>105</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="configsettings_comboBox">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>165</y>
+      <width>331</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_oldvalue_label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>237</y>
+      <width>81</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Old Value:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_newvalue_label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>267</y>
+      <width>81</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>New value:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_oldvalue_line">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>235</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_newvalue_line">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>265</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_cancel_button">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>320</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cancel</string>
+    </property>
+   </widget>
+   <widget class="Line" name="confisettings_separatingline">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>140</y>
+      <width>461</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Horizontal</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_save_button">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>320</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="configsettings_edit_radiobutton">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>200</y>
+      <width>100</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Edit</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="configsettings_delete_radiobutton">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>200</y>
+      <width>100</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Delete</string>
+    </property>
+   </widget>
+   <zorder>configsettings_create_checkBox</zorder>
+   <zorder>configsettings_create_name_label_2</zorder>
+   <zorder>configsettings_value_name_label_2</zorder>
+   <zorder>configsettings_comment_name_label_2</zorder>
+   <zorder>configsettings_name_line_2</zorder>
+   <zorder>configsettings_value_line_2</zorder>
+   <zorder>configsettings_comment_line_2</zorder>
+   <zorder>configsettings_comboBox</zorder>
+   <zorder>configsettings_oldvalue_label</zorder>
+   <zorder>configsettings_newvalue_label</zorder>
+   <zorder>configsettings_oldvalue_line</zorder>
+   <zorder>configsettings_newvalue_line</zorder>
+   <zorder>configsettings_cancel_button</zorder>
+   <zorder>confisettings_separatingline</zorder>
+   <zorder>configsettings_save_button</zorder>
+   <zorder>configsettings_edit_radiobutton</zorder>
+   <zorder>configsettings_delete_radiobutton</zorder>
+   <zorder>modifyconfig_frame_3</zorder>
+  </widget>
+  <widget class="QFrame" name="modifyconfig_frame_3">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>120</y>
+     <width>461</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QComboBox" name="configsettings_comboBox_4">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>60</y>
+      <width>331</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_oldvalue_label_4">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>165</y>
+      <width>81</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Old Value:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="configsettings_newvalue_label_4">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>215</y>
+      <width>81</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>New value:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_oldvalue_line_4">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>160</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="configsettings_newvalue_line_4">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>210</y>
+      <width>251</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_cancel_button_4">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>290</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cancel</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="configsettings_save_button_4">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>290</y>
+      <width>80</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="configsettings_edit_radiobutton_4">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>110</y>
+      <width>100</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Edit</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="configsettings_delete_radiobutton_4">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>100</y>
+      <width>100</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Delete</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
