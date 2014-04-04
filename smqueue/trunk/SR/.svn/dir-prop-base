@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 135
+CommonLibs http://wush.net/svn/range/software/public/CommonLibs/trunk
+sqlite3 http://wush.net/svn/range/software/public/sqlite3/trunk
+
+
+END
