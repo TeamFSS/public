@@ -1,0 +1,4 @@
+Message sent to IMSI: 515030505080204 from 777; "hi "
+Message sent to IMSI: 515030505080204 from 777; "hiiiii "
+Message sent to IMSI: 515030505080204 from @UV·@UV; "hi "
+Message sent to IMSI: 515021509784769 from 777; "meli "

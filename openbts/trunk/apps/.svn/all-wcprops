@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/5904/software/public/openbts/trunk/apps
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/5904/software/public/openbts/trunk/apps/Makefile.am
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/5655/software/public/openbts/trunk/apps/OpenBTS.cpp
+END
+OpenBTSDo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/3690/software/public/openbts/trunk/apps/OpenBTSDo.cpp
+END
+runloop.OpenBTS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/3858/software/public/openbts/trunk/apps/runloop.OpenBTS.sh
+END
+OpenBTS.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/5704/software/public/openbts/trunk/apps/OpenBTS.example.sql
+END
+OpenBTSCLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/3722/software/public/openbts/trunk/apps/OpenBTSCLI.cpp
+END
