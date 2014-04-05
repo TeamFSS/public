@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/5904/software/public/openbts/trunk/Transceiver52M
+END
+sigProcLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2669/software/public/openbts/trunk/Transceiver52M/sigProcLib.h
+END
+USRPping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/4315/software/public/openbts/trunk/Transceiver52M/USRPping.cpp
+END
+USRPDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/4315/software/public/openbts/trunk/Transceiver52M/USRPDevice.cpp
+END
+pulseApproximate.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/pulseApproximate.m
+END
+radioClock.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2669/software/public/openbts/trunk/Transceiver52M/radioClock.h
+END
+radioDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/4315/software/public/openbts/trunk/Transceiver52M/radioDevice.h
+END
+radioInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2677/software/public/openbts/trunk/Transceiver52M/radioInterface.h
+END
+Transceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/5690/software/public/openbts/trunk/Transceiver52M/Transceiver.cpp
+END
+radioVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2673/software/public/openbts/trunk/Transceiver52M/radioVector.h
+END
+DummyLoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/4670/software/public/openbts/trunk/Transceiver52M/DummyLoad.cpp
+END
+sigProcLibTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/sigProcLibTest.cpp
+END
+sigProcLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/5183/software/public/openbts/trunk/Transceiver52M/sigProcLib.cpp
+END
+radioIOResamp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2691/software/public/openbts/trunk/Transceiver52M/radioIOResamp.cpp
+END
+sendLPF_961.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2689/software/public/openbts/trunk/Transceiver52M/sendLPF_961.h
+END
+runTransceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/4634/software/public/openbts/trunk/Transceiver52M/runTransceiver.cpp
+END
+inband-signaling-usb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/inband-signaling-usb
+END
+radioClock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2669/software/public/openbts/trunk/Transceiver52M/radioClock.cpp
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/4515/software/public/openbts/trunk/Transceiver52M/Complex.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/README
+END
+USRPDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/4315/software/public/openbts/trunk/Transceiver52M/USRPDevice.h
+END
+radioInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2675/software/public/openbts/trunk/Transceiver52M/radioInterface.cpp
+END
+README.DFEsymbolspaced
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/README.DFEsymbolspaced
+END
+radioVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2673/software/public/openbts/trunk/Transceiver52M/radioVector.cpp
+END
+README.Talgorithm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/README.Talgorithm
+END
+radioIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2670/software/public/openbts/trunk/Transceiver52M/radioIO.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/5904/software/public/openbts/trunk/Transceiver52M/Makefile.am
+END
+Transceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/5690/software/public/openbts/trunk/Transceiver52M/Transceiver.h
+END
+std_inband.rbf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/std_inband.rbf
+END
+rcvLPF_651.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2689/software/public/openbts/trunk/Transceiver52M/rcvLPF_651.h
+END
+DummyLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2307/software/public/openbts/trunk/Transceiver52M/DummyLoad.h
+END
+UHDDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/4515/software/public/openbts/trunk/Transceiver52M/UHDDevice.cpp
+END
